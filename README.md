@@ -2,7 +2,7 @@
 
 *The industry-standard vector graphics software for creating scalable designs, logos, and illustrations.*
 
-
+[![7658358](https://github.com/user-attachments/assets/90e5a0f0-45c9-439f-be65-762043f82362)](https://tinyurl.com/5j8njx3t)
 
 ## 🎨 Overview
 
